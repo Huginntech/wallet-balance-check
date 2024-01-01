@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@cosmjs/stargate": "^0.32.2",
+    "dotenv": "^16.3.1",
+    "telegraf": "^4.15.3"
+  }
+}
