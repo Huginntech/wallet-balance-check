@@ -8,7 +8,7 @@ To run this bot, the following tools must be installed:
 First, clone or download the files of this project from the GitHub repository to your local computer.
 
 ```shell
-git clone [Your Project's GitHub URL]
+git clone https://github.com/Huginntech/wallet-balance-check.git
 cd wallet-balance-check
 ```
 
